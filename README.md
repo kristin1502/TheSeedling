@@ -1,5 +1,5 @@
 # TheSeedling
-__This is a social experiment so check if a group of people can take care of a seedling via twitch.__<br/><br/>
+__This is a social experiment to check if a group of people can take care of a seedling via twitch.__<br/><br/>
 A chatbot filters the commands from all messages in the chat.<br/>
 The chatbot determines if a command is valid.<br/>
 The valid commands are saved in a MySQL database.<br/>
